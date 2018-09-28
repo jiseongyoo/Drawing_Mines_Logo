@@ -1,0 +1,8 @@
+prefix=/home/jiseongyoo/mines_yoo_jiseong/devel
+
+Name: mines_yoo_jiseong
+Description: Description of mines_yoo_jiseong
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jiseongyoo/mines_yoo_jiseong/devel/lib 
+Requires: 

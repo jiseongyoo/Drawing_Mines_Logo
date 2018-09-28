@@ -1,0 +1,2 @@
+mines_yoo_jiseong
+-DCATKIN_DEVEL_PREFIX=/home/jiseongyoo/mines_yoo_jiseong/devel -DCMAKE_INSTALL_PREFIX=/home/jiseongyoo/mines_yoo_jiseong/install -G Unix Makefiles
