@@ -4,9 +4,11 @@
 
 README
 Class: CSCI573 Human-Centered Robotics at Colorado School of Mines
+
 Lecturer: Dr. Hao Zhang
 
 Student: Jiseong Yoo
+
 Description:
   This program draws Mines logo using Turtle sim in ROS.
 
